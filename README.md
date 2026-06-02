@@ -1,4 +1,4 @@
- *[ ] Implement Minimax algorithm
+* [ ] Implement Minimax algorithm
 * [ ] Add difficulty settings
 * [ ] Improve terminal UI
 * [ ] Create automated tests
