@@ -13,9 +13,6 @@ This project is intended for educational and portfolio purposes.
 
 ## Learning Objectives
 
-This project helps reinforce:
-
 * C programming fundamentals
 * Algorithm design
 * State management
-* Problem-solving skills
